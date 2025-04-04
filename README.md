@@ -9,8 +9,8 @@ The model is trained using **Random Forest**, with **SMOTETomek** applied to bal
 
 1. Clone the Repository:
    ```bash
-   git clone https://github.com/ozanguneyli/Credit_Risk_Classification.git
-   cd Credit_Risk_Classification
+   git clone https://github.com/ozanguneyli/Credit-Risk-Classification.git
+   cd Credit-Risk-Classification
    ```
 2. Create a Virtual  Environment (Optional but recommended):
    ```bash
