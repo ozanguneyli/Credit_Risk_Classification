@@ -90,4 +90,8 @@ The dataset used in this project is the `German Credit Dataset`, which contains 
 
 ![Confusion Matrix](images/confusion_matrix.png)
 
+## License
+
+[MIT License](LICENSE)
+
 📌 The trained model and scaler are saved in the models/ directory for future use.
